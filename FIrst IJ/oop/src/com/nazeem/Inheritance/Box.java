@@ -1,0 +1,36 @@
+package com.nazeem.Inheritance;
+
+public class Box {
+    double l, w,h;
+//    double weight;
+
+     Box() {
+        this.l= -1;
+        this.w = -1;
+        this.h= -1;
+    }
+       //cube
+    Box(double side) {
+//         super();  in parent class will call "Object Class" Provide from java which is parent class of all classes we derive
+        this.l= side;
+        this.w = side;
+        this.h= side;
+    }
+
+
+     Box(double l, double w, double h) {
+        this.l = l;
+        this.w = w;
+        this.h = h;
+    }
+
+    Box(Box old) {
+        this.l= old.l;
+        this.w=  old.w;
+        this.h= old.h;
+    }
+
+    public void message(){
+        System.out.println("This is dabbba ");
+    }
+}

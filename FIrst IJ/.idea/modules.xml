@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FIrst IJ.iml" filepath="$PROJECT_DIR$/.idea/FIrst IJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_java/basic_java.iml" filepath="$PROJECT_DIR$/basic_java/basic_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/oop.iml" filepath="$PROJECT_DIR$/oop/src/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop1.iml" filepath="$PROJECT_DIR$/oop/oop1.iml" />
+    </modules>
+  </component>
+</project>
